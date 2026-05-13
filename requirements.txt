@@ -1,0 +1,5 @@
+1. Pandas Manipulation
+2. Aggregations
+3. Data Merging
+4. Pivot Tables
+5. Professional Visualizations
